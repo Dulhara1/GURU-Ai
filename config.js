@@ -86,7 +86,7 @@ global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
-global.error = '❌'
+global.error = '❌' 
 global.xmoji = '🔥'
 
 global.multiplier = 69
